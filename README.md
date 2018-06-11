@@ -1,13 +1,15 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-#Introduction
+Introduction
+
 Arcade Game is a project created for Udaity's Frontend nanodegree program.
+
 This game has not finished to be developed yet.. There are some upgrades to be made in the future.
 
 #Instructions
 
-##How to play
+How to play
 
 *Entities* : In this game you have a Player and Enemies (Bugs).
 
@@ -26,7 +28,7 @@ Once a the player collides with an enemy, the game is reset and the player moves
 
 Once the player reaches the water the game is won.
 
-##How to install
+How to install
 
 You can just clone or download the game. 
 What you need to do then is to open the index.html on your browser and the game will load automatically.
